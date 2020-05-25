@@ -1,3 +1,3 @@
-const { BuscarArchivos, getDirectories } = require('./srca/app.js');
+const { BuscarArchivos, getDirectories } = require('./src/app.js');
 BuscarArchivos(); 
 getDirectories(); 
